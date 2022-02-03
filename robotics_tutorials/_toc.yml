@@ -8,13 +8,9 @@ parts:
 - caption: Tutorials
   chapters:
   - file: tutorials/tutorial_1
-    title: Tutorial 1
   - file: tutorials/tutorial_2
-    title: Tutorial 2
   - file: tutorials/tutorial_3
-    title: Tutorial 3
 - caption: Examples
   chapters:
   - file: examples/matplotlib_example
-    title: Matplotlib
 
