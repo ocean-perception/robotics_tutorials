@@ -30,6 +30,7 @@ parse:
 repository:
   url                       : https://github.com/ocean-perception/robotics_tutorials
   path_to_book              : robotics_tutorials
+  branch                    : main
 
 launch_buttons:
   notebook_interface        : jupyterlab
